@@ -40,8 +40,8 @@
 
 ###  Let’s Connect
 -  GitHub: [@gilcode-S](https://github.com/gilcode-S)  
--  LinkedIn: *(add if available)*  
--  Portfolio: *(add your site or project showcase link)*  
+-  indeed:(https://profile.indeed.com/?hl=en_PH&co=PH&from=gnav-homepage)
+
 
 ---
 
